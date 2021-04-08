@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>You are a visitor</td>
     <td><img src="https://profile-counter.glitch.me/la-chica-morena/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
