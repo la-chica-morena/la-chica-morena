@@ -11,7 +11,7 @@
 
 
 # Hola!! Yo soy Priyansha Sharma..
-<img src = 'https://github.com/la-chica-morena/la-chica-morena/blob/main/signal-2021-04-08-093755.jpeg' height ='250' align='center'/>
+<img src = 'https://github.com/la-chica-morena/la-chica-morena/blob/main/signal-2021-04-08-093755.jpeg' height ='250' align='left'/>
 
 
 <p>Hello, this is Priyansha Sharma, I am a Tech Enthusiast, and love to travel, as my main subjects are microbiology, but I am also a interested in CYBER SECUIRTY, as
