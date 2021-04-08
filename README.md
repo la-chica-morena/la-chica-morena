@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+<strong> Hola!! Yo soy Priyansha Sharma..
+
+
 # 💬 Ask me about:
 - [x] Cyber Security                                      
 - [x] Public Speaking
@@ -11,9 +15,6 @@
 
 
 **la-chica-morena/la-chica-morena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-strong
-Hola!! Yo soy Priyansha Sharma..
 
 
 Here are some ideas to get you started:
