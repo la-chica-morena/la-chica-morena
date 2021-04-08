@@ -1,6 +1,6 @@
 # Hola!! Yo soy Priyansha Sharma..
 
-<img src="https://in.pinterest.com/pin/699324648375012134/"height='250' align='left'
+<img src="https%3A%2F%2Fartwoonz.com%2Fillustrator-laura-h-rubin%2F&pin=699324648375012134&client_tracking_params=CwABAAAAEDE0ODQyMDM1ODkzNTAxNjkA~0&aux_data=%7B%7D" align='left'
 
 # 💬 Ask me about:
 - [x] Cyber Security                                      
