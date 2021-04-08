@@ -17,8 +17,8 @@
 <br>
 <br>
 <br>
-<p>Hello, this is Priyansha Sharma, I am a Tech Enthusiast, and I love to travel, as my main subjects are microbiology, but I am also a interested in CYBER SECURITY, as
-  it is one of my favorite fields, I am a <strong>Script Kiddie</strong> now, and a budding <strong>White Hat</strong>!!<p>
+<p>Hello, this is Priyansha Sharma, I am a Tech Enthusiast and I love travelling. Even if my main subject includes microbiology, but I am also interested in CYBER SECURITY, as
+  it is one of my favourite fields, I am a <strong>Script Kiddie</strong> now, and a budding <strong>White Hat</strong>!!<p>
 <br>
 <br>
 <br>
