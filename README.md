@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<img src = 'https://capsule-render.vercel.app/api?type=wave&color=00000&height=100&section=footer&text=Callous&fontSize=140&animation=blinking&fontColor=00FF00'/>
+<img src = 'https://capsule-render.vercel.app/api?type=wave&color=00000&height=150&section=footer&text=Callous&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
 
 # Hola!! Yo soy Priyansha Sharma..
