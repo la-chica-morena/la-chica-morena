@@ -12,9 +12,15 @@
 
 # Hola!! Yo soy Priyansha Sharma..
 <img src = 'https://github.com/la-chica-morena/la-chica-morena/blob/main/signal-2021-04-08-093755.jpeg' height ='250' align='right'/>
+
+
 # 💬 Ask me about:
 - [x] Cyber Security                                      
 - [x] Public Speaking
+<br>
+<br>
+<br>
+<br>
 
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=la-chica-morena&theme=onedark' align='center'/>
