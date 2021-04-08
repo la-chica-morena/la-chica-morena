@@ -13,9 +13,13 @@
 # Hola!! Yo soy Priyansha Sharma..
 <img src = 'https://github.com/la-chica-morena/la-chica-morena/blob/main/signal-2021-04-08-093755.jpeg' height ='250' align='left'/>
 
-
+<br>
+<br>
 <p>Hello, this is Priyansha Sharma, I am a Tech Enthusiast, and love to travel, as my main subjects are microbiology, but I am also a interested in CYBER SECUIRTY, as
   it is one of my fav fields, I am a <strong>Script Kiddie</strong> now, a budding <strong>White Hat</strong>!!<p>
+<br>
+<br>
+<br>
 
 # 💬 Ask me about:
 - [x] Cyber Security                                      
