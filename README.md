@@ -35,7 +35,7 @@
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=la-chica-morena&theme=chartreuse-dark&hide_langs_below=4' align='left'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=la-chica-morena&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40' align='center'>
 
-
+<!--
 **la-chica-morena/la-chica-morena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
