@@ -1,7 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-
-
-<strong> Hola!! Yo soy Priyansha Sharma..
+# Hola!! Yo soy Priyansha Sharma..
 
 
 # 💬 Ask me about:
