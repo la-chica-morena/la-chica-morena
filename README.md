@@ -17,10 +17,6 @@
 # 💬 Ask me about:
 - [x] Cyber Security                                      
 - [x] Public Speaking
-<br>
-<br>
-<br>
-<br>
 
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=la-chica-morena&theme=onedark' align='center'/>
