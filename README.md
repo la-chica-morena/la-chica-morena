@@ -1,7 +1,5 @@
 # Hola!! Yo soy Priyansha Sharma..
 
-<img src="https://artwoonz.com/illustrator-laura-h-rubin/" align='left'
-
 # 💬 Ask me about:
 - [x] Cyber Security                                      
 - [x] Public Speaking
